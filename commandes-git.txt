@@ -12,3 +12,5 @@ git branch -M main
 git remote add origin https://github.com/segunajibola/sample-code.git
 
 git push -u origin main
+
+git pull
