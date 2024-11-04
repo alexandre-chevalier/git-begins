@@ -14,3 +14,9 @@ git remote add origin https://github.com/segunajibola/sample-code.git
 git push -u origin main
 
 git pull
+
+créer une branche
+git branch + nom de la branche
+
+changer de branche
+git checkout + nom de la branche
